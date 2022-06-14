@@ -77,6 +77,7 @@ Github (https://github.com/)
 
 Comunidade Data Science (https://www.comunidadedatascience.com/)
 
+Blog Seja Um Data Scientist (https://medium.com/@meigarom/os-5-projetos-de-data-science-que-far%C3%A1-o-recrutador-olhar-para-voc%C3%AA-c32c67c17cc9)
 
 ### Autor
 
