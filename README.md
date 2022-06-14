@@ -72,7 +72,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Referências
 
 Kaggle (https://www.kaggle.com/)
+
 Github (https://github.com/)
+
 Comunidade Data Science (https://www.comunidadedatascience.com/)
 
 
