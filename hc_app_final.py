@@ -156,7 +156,6 @@ def built(data):
     st.write(f'A média de preços, de imóveis construídos antes de 1955, é:  {menor_1955:.2f}')
     st.write(f'A média de preços, de imóveis construídos depois de 1955, é:  {maior_1955:.2f}')
     st.write('**Análise do resultado da hipótese:**')  # write in Bold
-    st.subheader('Rever calculo')
     compare = menor_1955 / maior_1955
     if compare > 0.5:
         st.write('Falso: Imóveis com data de construção menor que 1955, **NÃO** são mais baratos'
