@@ -19,7 +19,7 @@ Tabela de conteúdos
 </p>
 
 ### Sobre
-O Projeto House Rocket foi um estudo realizado para identificar insights através da análise de dados. Foi utilizado um dataset, do setor imobiliário, disponibilizado na plataforma Kaggle (https://www.kaggle.com/) que contém as datas da compra, preço, qtd de quartos, qtd de banheiros, tamanho do imóvel, latidute/longitude, código postal, entre outros dados. 
+O Projeto House Rocket foi um estudo realizado para identificar insights através da análise de dados. Foi utilizado um dataset, do setor imobiliário, disponibilizado na plataforma Kaggle que contém as datas da compra, preço, qtd de quartos, qtd de banheiros, tamanho do imóvel, latidute/longitude, código postal, entre outros dados. 
 
 A House Rocket é uma empresa fictícia do setor imobiliário com o objetivo de comprar imóveis com potencial de valorização, revendê-los para obter lucro nas transações.
 
@@ -79,6 +79,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 [Blog Seja Um Data Scientist](https://medium.com/@meigarom/os-5-projetos-de-data-science-que-far%C3%A1-o-recrutador-olhar-para-voc%C3%AA-c32c67c17cc9)
 
+
 ### Autor
 
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/41192466?v=4" width="100px;" alt=""/>
@@ -89,6 +90,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Contribuidores
 
 O projeto não teve contribuidores oficiais. A Comunidade Data Science foi consultada em determinados momentos.
+
 
 ### Licença
 
